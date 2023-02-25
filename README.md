@@ -1,5 +1,5 @@
 # MatheusinZ
-Dinheiro 
+ 
  Copywriter
 
 Um copywriter é um profissional especializado em escrever textos persuasivos para publicidade e marketing. O objetivo principal de um copywriter é criar conteúdo que atraia a atenção do público-alvo e os leve a realizar uma ação desejada, como comprar um produto ou serviço.
